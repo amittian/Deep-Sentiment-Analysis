@@ -1,4 +1,4 @@
-# Deep Emotion Analysis on TEXT Data
+# :boom: Deep Emotion Analysis on TEXT Data :boom:
 
 ### :point_right: _Deep Emotion Analysis refers to the use of deep learning techniques, particularly deep neural networks, to analyze and understand the sentiment or emotional tone expressed in text data._
 
