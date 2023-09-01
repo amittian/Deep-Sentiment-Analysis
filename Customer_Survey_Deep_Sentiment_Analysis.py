@@ -1,6 +1,6 @@
 # Define pipeline
 
-def deep_sentiment_analysis_survey_notes():
+def deep_emotion_analysis_survey_notes():
     
     """
     Perform deep sentiment analysis on a collection of survey notes.
