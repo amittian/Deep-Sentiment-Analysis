@@ -19,7 +19,7 @@ _Deep Sentiment Analysis refers to the use of deep learning techniques, particul
 
 + **Deep Sentiment Analysis** is a valuable tool in natural language processing and machine learning, enabling automated understanding of human emotions and opinions in text data.
 
-**function Descriptions**
+**Function Descriptions**
 
 > The **deep_emotion_analysis_survey_notes()** function takes a **single parameter** text_data, which is a list of strings representing survey notes or comments to be analyzed for sentiment.
 
