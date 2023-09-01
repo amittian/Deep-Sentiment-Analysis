@@ -8,7 +8,7 @@
 
 :ballot_box_with_check: **Deep Sentiment Analysis:** Deep Sentiment Analysis leverages deep neural networks, often recurrent **neural networks (RNNs)**, **convolutional neural networks (CNNs)**, or more recently, **transformer** **models** (like **BERT**, **GPT 3.5**, **GPT 4.0** or **RoBERTa**), to perform **sentiment analysis** with **high accuracy** and the ability to capture **context** and **semantics effectively**.
 
-> **Deep Sentiment Analysis models** are trained on large datasets containing text samples with sentiment labels, allowing them to learn the relationships between words, phrases, and sentiment expressions. These models can then be used to automatically analyze the sentiment of text data, which has numerous practical applications, such as:
+> :writing_hand: **Deep Sentiment Analysis models** are trained on large datasets containing text samples with sentiment labels, allowing them to learn the relationships between words, phrases, and sentiment expressions. These models can then be used to automatically analyze the sentiment of text data, which has numerous practical applications, such as:
 
 :ballot_box_with_check: **Customer Feedback Analysis:** Businesses can use deep sentiment analysis to automatically process and understand customer reviews, social media comments, or survey responses to gauge customer satisfaction and identify areas for improvement.
 
@@ -20,11 +20,11 @@
 
 :ballot_box_with_check: **Deep Sentiment Analysis** is a valuable tool in natural language processing and machine learning, enabling automated understanding of human emotions and opinions in text data.
 
-**Function Descriptions**
+:point_right: **Function Descriptions**
 
-> The **deep_emotion_analysis_survey_notes()** function takes a **single parameter** text_data, which is a list of strings representing survey notes or comments to be analyzed for sentiment.
+> :writing_hand: The **deep_emotion_analysis_survey_notes()** function takes a **single parameter** text_data, which is a list of strings representing survey notes or comments to be analyzed for sentiment.
 
-**It returns three lists:**
+:point_right: **It returns three lists:**
 
 > :green_circle: **sentiment_scores:** A list of sentiment scores, typically ranging from -1.0 (indicating negative sentiment) to 1.0 (indicating positive sentiment).
 
