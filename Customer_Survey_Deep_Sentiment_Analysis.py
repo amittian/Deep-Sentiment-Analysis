@@ -60,3 +60,5 @@ def deep_emotion_analysis_survey_notes():
 
 
     return single_topic_prediction
+if __name__ == "__main__":
+    deep_emotion_analysis_survey_notes()
