@@ -22,15 +22,15 @@
 
 **Function Descriptions**
 
-> :ballot_box_with_check: The **deep_emotion_analysis_survey_notes()** function takes a **single parameter** text_data, which is a list of strings representing survey notes or comments to be analyzed for sentiment.
+> The **deep_emotion_analysis_survey_notes()** function takes a **single parameter** text_data, which is a list of strings representing survey notes or comments to be analyzed for sentiment.
 
 **It returns three lists:**
 
-> + **sentiment_scores:** A list of sentiment scores, typically ranging from -1.0 (indicating negative sentiment) to 1.0 (indicating positive sentiment).
+> :green_circle: **sentiment_scores:** A list of sentiment scores, typically ranging from -1.0 (indicating negative sentiment) to 1.0 (indicating positive sentiment).
 
-> + **sentiment_labels:** A list of sentiment labels ("positive," "negative," or "neutral") corresponding to each survey note.
+> :green_circle: **sentiment_labels:** A list of sentiment labels ("positive," "negative," or "neutral") corresponding to each survey note.
 
-> + **emotion_labels:** A list of emotion labels (e.g., "joy," "anger," "sadness," "surprise") representing more fine-grained emotional states for each survey note.
+> :green_circle: **emotion_labels:** A list of emotion labels (e.g., "joy," "anger," "sadness," "surprise") representing more fine-grained emotional states for each survey note.
 
 
 
