@@ -8,9 +8,9 @@
 
 :ballot_box_with_check: **Deep Sentiment Analysis:** Deep Sentiment Analysis leverages deep neural networks, often recurrent **neural networks (RNNs)**, **convolutional neural networks (CNNs)**, or more recently, **transformer** **models** (like **BERT**, **GPT 3.5**, **GPT 4.0** or **RoBERTa**), to perform **sentiment analysis** with **high accuracy** and the ability to capture **context** and **semantics effectively**.
 
-:ballot_box_with_check: > **Deep Sentiment Analysis models** are trained on large datasets containing text samples with sentiment labels, allowing them to learn the relationships between words, phrases, and sentiment expressions. These models can then be used to automatically analyze the sentiment of text data, which has numerous practical applications, such as:
+ > :ballot_box_with_check: **Deep Sentiment Analysis models** are trained on large datasets containing text samples with sentiment labels, allowing them to learn the relationships between words, phrases, and sentiment expressions. These models can then be used to automatically analyze the sentiment of text data, which has numerous practical applications, such as:
 
-+ **Customer Feedback Analysis:** Businesses can use deep sentiment analysis to automatically process and understand customer reviews, social media comments, or survey responses to gauge customer satisfaction and identify areas for improvement.
++ :ballot_box_with_check: **Customer Feedback Analysis:** Businesses can use deep sentiment analysis to automatically process and understand customer reviews, social media comments, or survey responses to gauge customer satisfaction and identify areas for improvement.
 
 + **Stock Market Prediction:** Investors and financial analysts can use sentiment analysis to analyze news articles, social media, and other textual data to predict stock market trends based on the sentiment expressed about specific companies or industries.
 
