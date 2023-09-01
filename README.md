@@ -2,7 +2,7 @@
 
 ### _Deep Emotion Analysis refers to the use of deep learning techniques, particularly deep neural networks, to analyze and understand the sentiment or emotional tone expressed in text data._
 
-**Deep Learning:** Deep learning is a subset of machine learning that involves artificial neural networks with multiple layers (deep neural networks). These networks are capable of learning complex patterns and representations from data, making them well-suited for tasks like sentiment analysis, where context and subtleties play a significant role.
+:ballot_box_with_check: **Deep Learning:** Deep learning is a subset of machine learning that involves artificial neural networks with multiple layers (deep neural networks). These networks are capable of learning complex patterns and representations from data, making them well-suited for tasks like sentiment analysis, where context and subtleties play a significant role.
 
 **Sentiment Analysis:** Sentiment analysis is the task of classifying the emotional sentiment expressed in text data. It typically involves assigning a sentiment label to the text, such as "positive," "negative," or "neutral." More advanced sentiment analysis models can distinguish between fine-grained sentiments and emotions.
 
